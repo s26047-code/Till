@@ -36,8 +36,8 @@
 </pre> <br>
 
   <h3><li>else와 else if</li><h3>
-  <h5> else는 만족하는 조건이 없을 때 실행된다.</h5>
-      <h5>else if는 복잡한 if문 정리해 <mark>순서대로</mark> 참과 거짓을 구분 후 참이면 실행한다. </h5> <br>
+  <h5> else는 if문이 거짓일 때 실행된다.</h5>
+      <h5>else if는 복잡한 if문을 정리해 <mark>순서대로</mark> 여러개를 나열할 수 있다. </h5> <br>
   
   <h3><li>switch</li></h3>
   <h5>switch문은 조건에 따라 맞는 값을 실행한다. <mark>단, break를 꼭 사용해야한다.</mark> </h5> <br> 
